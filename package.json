@@ -3,6 +3,7 @@
 	"author": "Innovative programmer",
 	"description": "A web projects that you should stuck on to get innovative projects",
 	"keywords": ["Innovative Programmer", "freecodecamp", "get programming innovations"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
