@@ -4,6 +4,7 @@
 	"description": "A web projects that you should stuck on to get innovative projects",
 	"keywords": ["Innovative Programmer", "freecodecamp", "get programming innovations"],
 	"license": "MIT",
+	"version": "3.1.2",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
